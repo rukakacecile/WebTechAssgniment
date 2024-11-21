@@ -1,0 +1,17 @@
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\AucaStudentManagementSystemApplication.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\controller\StudentController.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\model\AcademicUnit.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\model\Course.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\model\CourseDefinition.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\model\EAcademicUnitType.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\model\ELecturerType.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\model\EQualification.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\model\Lecturer.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\model\Semester.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\model\Student.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\model\StudentRegistration.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\repository\ISemesterRepository.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\repository\IStudentRegistrationRepository.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\repository\IStudentRepository.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\service\StudentRegistrationService.java
+D:\AUCA courses\AUCA courses\new courses material AUCA\new courses material AUCA\spring sunday\auca-management\src\main\java\auca\ac\rw\auca\management\service\StudentService.java

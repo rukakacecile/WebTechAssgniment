@@ -1,0 +1,17 @@
+auca\ac\rw\auca\management\model\Course.class
+auca\ac\rw\auca\management\model\Student.class
+auca\ac\rw\auca\management\repository\ISemesterRepository.class
+auca\ac\rw\auca\management\service\StudentRegistrationService.class
+auca\ac\rw\auca\management\model\Semester.class
+auca\ac\rw\auca\management\controller\StudentController.class
+auca\ac\rw\auca\management\service\StudentService.class
+auca\ac\rw\auca\management\model\CourseDefinition.class
+auca\ac\rw\auca\management\model\Lecturer.class
+auca\ac\rw\auca\management\repository\IStudentRepository.class
+auca\ac\rw\auca\management\AucaStudentManagementSystemApplication.class
+auca\ac\rw\auca\management\model\EQualification.class
+auca\ac\rw\auca\management\model\AcademicUnit.class
+auca\ac\rw\auca\management\model\StudentRegistration.class
+auca\ac\rw\auca\management\model\EAcademicUnitType.class
+auca\ac\rw\auca\management\repository\IStudentRegistrationRepository.class
+auca\ac\rw\auca\management\model\ELecturerType.class
